@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World!</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+        <header class="header">
+            <h1>Hello World!</h1>
+        </header>
+
+        <div class="container">
+            <img src="images/credit_card-front.png" alt="credit-car-front">
+
+            <img src="images/credit_card-back.png" alt="credit-car-front">
+
+            <div class="card-number">2613 0744 9020 8004 </div>
+
+            <div class="name">Vardenis Pavardenis</div>
+
+            <div class="master-card">
+                <img src="images/master-cardpng-removebg-preview.png" alt="">
+            </div>
+
+            <h6 class="exp-date">02/26 </h5>
+
+            <h5 class="h5-text">CVV</h5>
+            <h5 class="cvv-code">540 </h5>
+
+
+        </div>
+
+        
+
+
+</body>
+</html>
