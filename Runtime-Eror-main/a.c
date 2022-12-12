@@ -19,12 +19,12 @@ card c;
 
 // Prototypes
 //void readInput(card c);
-void printToHtml();
+void printToHtml(card c);
 
 int main()
 {   
     //readInput(c);
-    printToHtml();
+    printToHtml(c);
     return 0;
 }
 
