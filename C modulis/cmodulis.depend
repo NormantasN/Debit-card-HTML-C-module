@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1671036854 source:c:\users\norma\onedrive\desktop\cmodulis\modulis.c
+	"modulis.h"
+
+1671036841 c:\users\norma\onedrive\desktop\cmodulis\modulis.h
+	<stdio.h>
+	<stdint.h>
+	<stdlib.h>
+	<string.h>
+
+1671036859 source:c:\users\norma\onedrive\desktop\cmodulis\main.c
+	"modulis.h"
+

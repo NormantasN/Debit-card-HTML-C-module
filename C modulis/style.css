@@ -1,0 +1,85 @@
+*
+{
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.header
+{
+    display: flex;
+    width: 615px;
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+    background-color: #131086;
+    color: azure;
+}
+
+.button
+{
+    display: flex;
+    width: 100px;
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+
+.container
+{
+    position: relative;
+    width: 616px;
+    height: 565px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: black;
+    background: linear-gradient(45deg, #131086, #b621f3);
+}
+
+.name
+{
+    position: absolute;
+    font-size: 11px;
+    bottom: 405px;
+    left: 45px;
+    font-weight: 1000;
+}
+
+.card-number
+{
+    position: absolute;
+    bottom: 435px;
+    left: 45px;
+    font-weight: 1000;
+}
+
+.master-card img
+{
+    position: absolute;
+    width: 50px;
+    bottom: 400px;
+    left: 245px;
+}
+
+.h5-text
+{
+    position: absolute;
+    left: 515px;
+    bottom: 445px;
+}
+
+.cvv-code
+{
+    position: absolute;
+    left: 550px;
+    bottom: 445px;
+}
+
+.exp-date
+{
+    position: absolute;
+    left: 195px;
+    bottom: 405px;
+    font-weight: 100px;
+}
